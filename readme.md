@@ -1,0 +1,1 @@
+# Criando projeto com .Net 6, utilizando o arquivo Startup
